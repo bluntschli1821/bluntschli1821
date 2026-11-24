@@ -14,7 +14,7 @@ My work spans responsive web platforms, service websites, data-connected product
 
 I'm a developer focused on turning ideas into clean, usable software experiences.
 
-My work includes:
+My work currently includes, but is not limited to:
 
 - 🌐 Responsive web applications with **React & Next.js**
 - 📱 Cross-platform mobile applications with **React Native & Expo**
